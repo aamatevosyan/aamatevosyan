@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software Engineer with hands-on experience designing, developing and implementing applications and solutions in various technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Software Engineer.
+As a software engineer with over two years of experience, I bring extensive expertise in web development, software design, and other software development related areas. Throughout my career, I have delivered top-quality software products while collaborating with cross-functional teams, demonstrating a commitment to staying up-to-date with the latest technologies and best practices in my field.
+
+I am dedicated to achieving optimal results for my clients or employer, with a focus on delivering clean, efficient, and maintainable code. As a professional with a deep passion for software engineering, I am committed to expanding my knowledge and honing my skills to remain at the forefront of the industry.
 
 * 🌍  I'm based in Yerevan, Armenia
 * ✉️  You can contact me at [armen@matevosyan.am](mailto:armen@matevosyan.am)
-* 🚀  I'm currently working on [Qoffer](http://qoffer.com)
+* 🚀  I'm currently working on [Yandex](https://yandex.com/company)
 * 🧠  I'm learning System Design
 * 🤝  I'm open to collaborating on interesting projects
 * 🔩  Gym Person 
